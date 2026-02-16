@@ -1,0 +1,1 @@
+This file is intentionally empty. The package `app.api` now contains `health.py` and `__init__.py`.
